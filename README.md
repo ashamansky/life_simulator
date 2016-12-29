@@ -57,32 +57,3 @@ Simulation
 Help
 1. Display info about application
 2. Display info about author
-Figure 1: Application Menu
-INSTRUCTIONS
-1. Initial Demonstration: You are required to demonstrate a console version of your program in the
-allotted slot on Wednesday of Week 6 of the Autumn term and to get a demo mark sheet signed
-by an assistant during your practical session in the Week 2 of the Spring Term. Missing the
-demonstration will impact your final mark negatively. If you have an officially approved
-extenuating circumstance then contact Richard Mitchell by e-mail (r.j.mitchell@reading.ac.uk) to
-set up an alternative demonstration timeslot.
-2. Final Demonstration: You are required to demonstrate the final application and to get a demo
-mark sheet signed by an assistant during your practical session in the Week 2 of the Spring
-Term. Missing the demonstration will impact your final mark negatively. If you have an officially
-approved extenuating circumstance then contact Richard Mitchell by e-mail
-(r.j.mitchell@reading.ac.uk) to set up an alternative demonstration timeslot.
-3. Electronic submission:
-a. You are required to submit an electronic report in docx / pdf format on Blackboard by
-the specified deadline. The report (max 10 pages of A4, 12 pt font) should include:
-i. A brief abstract. A short introduction.
-ii. A description of the OOP design of your application (list/explanation of classes,
-UML diagrams, data design etc.) with a critical analysis of the design you were
-provided throughout the weekly practical sessions. (Remember to use appropriate
-software engineering methods)
-iii. A short informal presentation of the final application (including screenshots of GUI
-and user manual),
-iv. Tests, discussion and short conclusions with your personal reflection on this
-project.
-b. You are required to submit an electronic copy of your code (runnable jar archive
-including source code) in Blackboard by deadline specified in the header. This file should
-include a top-level folder named “javadoc” containing the Javadoc documentation as a
-website.
